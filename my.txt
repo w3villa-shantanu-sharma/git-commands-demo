@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Hotfix
 changes by master
+=======
+this is my first commit
+this is my second commit
+this is my third commit
+
+>>>>>>> parent of c508de4 (Hotfix commit)
